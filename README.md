@@ -110,3 +110,5 @@ Down counter:
 
 
 ### RESULTS 
+Thus Synchornous counters up counter and down counter circuit are studied and the truth table for
+different logic gates are verified
